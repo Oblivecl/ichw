@@ -22,8 +22,8 @@ plants=[mercury,venus,earth,mars,jupiter,saturn]
 
 ##Parameter setting
 l=0.035   #orbital
-ac=10000   #accuracy
-si=0.5      #size
+ac=10000  #accuracy
+si=2      #size
 sp=300    #speed
 
 
